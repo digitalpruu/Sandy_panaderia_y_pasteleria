@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "En Sandy Panadería y Pastelería, creemos que un buen pan y un delicioso pastel pueden alegrar cualquier día. Con una amplia variedad de productos recién horneados, ofrecemos desde los clásicos de siempre hasta innovaciones que sorprenden y deleitan.",
+        "description": "En Sandy Panadería y Pastelería, creemos que un buen pan y un delicioso postre pueden alegrar cualquier día. Con una amplia variedad de productos recién horneados, ofrecemos desde los clásicos de siempre hasta innovaciones que sorprenden y deleitan.",
         "img": "/assets/images/Banner_2.png"
       },
       {
@@ -53,12 +53,12 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 319 3375267",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "Srgonzalezm.c@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
