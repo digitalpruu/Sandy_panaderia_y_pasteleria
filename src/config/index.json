@@ -62,13 +62,8 @@
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
-      },
-      {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "SANDY Panadería y Pastelería.",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
